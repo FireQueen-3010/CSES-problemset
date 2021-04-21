@@ -1,0 +1,24 @@
+{
+  "name": "cses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireQueen-3010/CSES-problemset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireQueen-3010/CSES-problemset/issues"
+  },
+  "homepage": "https://github.com/FireQueen-3010/CSES-problemset#readme",
+  "dependencies": {
+    "node-gyp": "^8.0.0",
+    "rebuild": "^0.1.2",
+    "java": "16.0.1"
+  }
+}
